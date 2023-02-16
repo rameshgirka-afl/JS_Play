@@ -1,6 +1,6 @@
 // Modern JS: previously accepted are - now Errors. || Forbids certain things - bug free 
 // should be first statement - else no re"Strictions" :) 
-'use strict'
+//'use strict'
 
 
 
